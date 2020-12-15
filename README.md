@@ -1,2 +1,2 @@
 # Armazenamento-do-Nome-Do-Usuario
-Armazena e exibe o nome do Usuário.
+Armazena  o  nome do Usuário.
