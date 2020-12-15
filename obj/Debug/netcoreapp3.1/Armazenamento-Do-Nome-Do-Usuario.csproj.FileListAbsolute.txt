@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\bin\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\bin\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\bin\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\bin\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\bin\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\bin\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\obj\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\obj\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\obj\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\obj\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\obj\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\obj\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Armazenamento-Do-Nome-Do-Usuario\obj\Debug\netcoreapp3.1\Armazenamento-Do-Nome-Do-Usuario.genruntimeconfig.cache
